@@ -1,7 +1,7 @@
 # SummerStudent2021
 Summer student examples and resources 2021
 
-* [Python tutorial](https://ivastar.github.io/python-novice-astro/)
+* [Python tutorial (Supernova)](https://ivastar.github.io/python-novice-astro/)
 * [AstroPy](http://www.astropy.org/)
 * [Matplotlib](https://matplotlib.org/gallery/index.html)
 * [AplPy](https://aplpy.github.io/)
