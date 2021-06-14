@@ -15,3 +15,6 @@ Summer student examples and resources 2021
 * [Siggraph Conference](https://www.siggraph.org/)
 * [SciPy Conference](https://www.scipy2021.scipy.org//)
 * [Visualize Astronomy Channel](https://www.youtube.com/user/VisualizeAstronomy/videos)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Colorimetry in plots](https://seaborn.pydata.org/tutorial/color_palettes.html#general-principles-for-using-color-in-plots)
+
