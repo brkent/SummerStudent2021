@@ -17,4 +17,5 @@ Summer student examples and resources 2021
 * [Visualize Astronomy Channel](https://www.youtube.com/user/VisualizeAstronomy/videos)
 * [Seaborn](https://seaborn.pydata.org/)
 * [Colorimetry in plots](https://seaborn.pydata.org/tutorial/color_palettes.html#general-principles-for-using-color-in-plots)
+* [Colorimetry Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 
